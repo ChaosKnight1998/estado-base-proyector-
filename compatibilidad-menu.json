@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "additional_firmwares": [
+    {
+      "sdk": "34",
+      "fingerprint": "Skyworth/HP4703-Skyworth/BOS:14/UKG3.251130.001/C1.6.4_20260723:user/release-keys"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+# Runtime reports stay local, including any later private DNS value.
+.local/
+__pycache__/
+*.pyc
+*.tmp
+*.log
+.env
+.env.*
+adbkey*
+*.key
+*.pem
+*.jks
+*.keystore
+baseline.json
+changes.json
+snapshots/
+backup/
+.venv/
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store

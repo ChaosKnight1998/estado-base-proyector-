@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "device": {
+    "product": "Wanbo Vali 1",
+    "manufacturer": "SkyworthDigital",
+    "model": "TV Stick",
+    "device": "BOS",
+    "sdk": "30",
+    "fingerprint": "Skyworth/HP4703-Skyworth/BOS:11/RTT0.210829.002/P2.1.6_20240930:user/release-keys"
+  },
+  "home": "com.google.android.tvlauncher/.MainActivity",
+  "packages": {
+    "com.google.android.tvlauncher": 0,
+    "com.google.android.tvrecommendations": 0,
+    "com.google.android.feedback": 0
+  },
+  "settings": {
+    "private_dns_mode": null,
+    "private_dns_specifier": null,
+    "window_animation_scale": "1.0",
+    "transition_animation_scale": "1.0",
+    "animator_duration_scale": null
+  }
+}
